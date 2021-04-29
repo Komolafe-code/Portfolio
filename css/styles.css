@@ -132,8 +132,9 @@
      * (https://maketintsandshades.com/)
      */
     --color-black  : #000000;
+    --color-green-01:#4ee258;
     --color-gray-19: #0a0a0a;
-    --color-gray-18: #4ee258;
+    --color-gray-18: #141414;
     --color-gray-17: #1e1e1e;
     --color-gray-16: #282828;
     --color-gray-15: #323333;
@@ -2594,7 +2595,7 @@ input[type="button"].btn--primary:focus {
     content: "";
     display: block;
     height: 100%;
-    background-color: var(--color-gray-18);
+    background-color: var(--color-green-01);
 }
 
 .skill-bars-fat li .percent5::before {
